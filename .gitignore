@@ -1,5 +1,9 @@
 *.py[co]
 
+# Custom files
+Images/Indev
+Images/Test
+
 # Packages
 *.egg
 *.egg-info
